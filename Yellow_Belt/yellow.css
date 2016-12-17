@@ -1,0 +1,144 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+	text-align: center;
+}
+div{
+	/*border: 1px solid red;*/
+}
+
+#Wrapper{
+	background-color: #062134;
+	width: 970px;
+}
+
+#Head{
+	display: inline-block;
+	vertical-align: top;
+	width: 970px;
+	text-align: left;
+	padding-top: 20px;
+
+}
+
+#Head h1{
+	display: inline-block;
+	color: white;
+	margin-left: 30px;
+	
+}
+
+
+
+#TopNav{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 86px;
+	width: 495px;
+	height: 45px;
+
+}
+
+#TopNav ul{
+	display: inline;
+
+}
+
+#TopNav ul li{
+	display: inline;
+	padding: 20px;
+	
+}
+
+#TopNav a{
+	color: white;
+	font-size: 15px;
+	margin-top: 5px;
+	
+}
+
+#Backdrop{
+	background-color: white;
+	width: 930px;
+	padding:10px;
+}
+
+#Body{
+	width: 925px;
+	/*background-color: pink;*/
+	
+}
+
+#Body img{
+	width: 925px;
+}
+
+#Legs{
+	display: inline-block;
+	width: 925px;
+	height: 180px;
+
+}
+
+#Legs h3, #Legs p{
+	color: white;
+}
+
+#Services, #Projects, #Clients{
+	background-color: #1468A8;
+
+}
+
+#Legs div{
+	display: inline-block;
+	width: 303px;
+	vertical-align: top;
+	height: 165px;
+
+}
+
+#Feet{
+	display: inline-block;
+	width: 925px;
+	color: black;
+}
+
+#Feet h2{
+	font-size: 17px;
+
+}
+
+#Feet div{
+	display: inline-block;
+	vertical-align: top;
+	width: 303px;
+}
+#Foot1, #Foot2, #Foot3 p{
+	color: balck;
+	
+}
+
+#FootNote{
+	/*padding: 10px;*/
+	background-color: #DAEDFF
+	width: 960px;
+	border: 3px solid red;
+
+}
+
+#FootNote ul{
+	height: 50px;
+	border: 1px solid white;
+	width: 900px;
+
+}
+
+#FootNote ul li{
+	display: inline-block;
+	font-size: 10px;
+}
+
+#FootNote a{
+	text-align: center;
+	padding: 10px;
+}
